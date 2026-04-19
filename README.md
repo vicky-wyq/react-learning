@@ -1,4 +1,4 @@
-# React Starter Vicky
+# React Starter
 
 A minimal React + JSX starter for learning by editing a very small app.
 
